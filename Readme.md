@@ -1,1 +1,1 @@
-## Making triangle with stars.
+## Making diamond with stars.
